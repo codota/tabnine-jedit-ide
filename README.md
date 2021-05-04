@@ -1,12 +1,12 @@
-## **TabNine For jedit IDE**
+## **TabNine For jEdit IDE**
 
-**This repository is a placeholder, used to gauge the level of interest of jedit IDE users in a TabNine extension.**
+**This repository is a placeholder, used to gauge the level of interest of jEdit IDE users in a TabNine extension.**
 
 ### **TabNine Overview:**
 
 ---
 
-This is the jedit IDE [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
+This is the jEdit IDE [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
 
 - Enter long variable names using minimal keystrokes and leverage a mnemonic completion engine.
 - Zero configuration. TabNine works out of the box.
